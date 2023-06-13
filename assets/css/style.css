@@ -1,0 +1,35 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#title{
+    background-color: blueviolet;
+    padding: 15px 0px;
+}
+
+#title h1{
+    color: white;
+    font-size: 2rem;
+}
+
+
+#navbar{
+    background-color: blueviolet;
+}
+
+#destaques{
+    padding: 80px 0px;
+}
+
+#subdestaques{
+    background-color: blueviolet;
+    padding: 20px 0px;
+}
+
+.noticias{
+    margin-top: 30px;
+}
